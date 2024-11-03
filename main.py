@@ -37,4 +37,3 @@ class NormalusDarbuotojas(Darbuotojas):
 darbuotojas1 = Darbuotojas("Tomas", 20, "2000-12-12")
 darbuotojas2 = NormalusDarbuotojas("Domas", 20, "2000-12-12")
 print(darbuotojas1.paskaiciuoti_atlyginima())
-print(darbuotojas2.paskaiciuoti_atlyginima())
